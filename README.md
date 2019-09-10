@@ -40,7 +40,7 @@ http://www.quickmeme.com/img/75/7509f68823389e4af3777ca6d3744c632cc32ab3547bc56e
 → Open the index.html file in a text editor (notepad, sublime, vs code etc)
 → Uncomment the following:
 <!-- <h4> Adding an Image here</h4>
-       <img src="" />--->
+       <img src="" />
 
  → And change it to 
 <h4> Adding an Image here</h4>
