@@ -24,7 +24,7 @@ Refer here if you have doubts:https://realpython.com/installing-python/
 
 → After installing Python, right click on intro-to-git-(yourname), and open Powershell for Windows or open terminal for MAC
 → Confirm Pyhon is installed by writing command: python --version (you should get the version number as output)
-→ Run a local server by writing this command: python -m http.server
+→ Run a local server by writing this command: python -m SimpleHTTPServer
 → Wait for the output: Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) …
 
 → Now open a web browser and type the url as: localhost:8000
@@ -40,7 +40,7 @@ http://www.quickmeme.com/img/75/7509f68823389e4af3777ca6d3744c632cc32ab3547bc56e
 → Open the index.html file in a text editor (notepad, sublime, vs code etc)
 → Uncomment the following:
 <!-- <h4> Adding an Image here</h4>
-       <img src="" /> →
+       <img src="" />--->
 
  → And change it to 
 <h4> Adding an Image here</h4>
